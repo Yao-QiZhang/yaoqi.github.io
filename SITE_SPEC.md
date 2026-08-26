@@ -45,10 +45,10 @@ Unconfirmed items remain omitted rather than invented. The original `my_CV 2` fi
 - Current institutional affiliation: University of Hertfordshire.
 - No portrait in the first release.
 - The three interests begin with text-only introductory copy; images can be added later.
-- Target GitHub account: `Phatom`; likely personal-site repository: `Phatom.github.io`.
+- Target GitHub account: `Phatom`; personal-site repository: `yaoqi.github.io`.
 - Publish publicly after local review.
 
 ## Future inputs
 
-- Add a finalized downloadable CV PDF when available.
+- The downloadable CV PDF is generated as `cv.pdf`; its LaTeX source is kept local and ignored from the public repository.
 - Add personal prose or images for the three interests when supplied.

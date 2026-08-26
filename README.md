@@ -19,7 +19,7 @@ python3 check_site.py
 
 ## GitHub Pages
 
-Create or connect the public repository `Phatom.github.io`, push the contents of this directory, and select **Settings → Pages → Deploy from a branch → main → /(root)**. The `.nojekyll` file keeps this dependency-free static site unchanged when served by GitHub Pages.
+Create or connect the public repository `yaoqi.github.io` under the `Phatom` account, push the contents of this directory, and select **Settings → Pages → Deploy from a branch → main → /(root)**. The `.nojekyll` file keeps this dependency-free static site unchanged when served by GitHub Pages.
 
 ## Updating publications
 
