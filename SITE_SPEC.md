@@ -45,7 +45,7 @@ Unconfirmed items remain omitted rather than invented. The original `my_CV 2` fi
 - Current institutional affiliation: University of Hertfordshire.
 - No portrait in the first release.
 - The three interests begin with text-only introductory copy; images can be added later.
-- Target GitHub account: `Phatom`; personal-site repository: `yaoqi.github.io`.
+- Target GitHub account: `Yao-QiZhang`; personal-site repository: `yaoqi.github.io`.
 - Publish publicly after local review.
 
 ## Future inputs
