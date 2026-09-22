@@ -8,7 +8,7 @@ import sys
 
 
 ROOT = Path(__file__).resolve().parent
-PAGES = ["index.html", "research.html", "publications.html", "cv.html", "interests.html"]
+PAGES = ["index.html", "research.html", "publications.html", "cv.html", "talks.html", "interests.html"]
 
 
 def main() -> int:
